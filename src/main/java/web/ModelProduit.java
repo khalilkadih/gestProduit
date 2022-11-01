@@ -5,7 +5,13 @@ import java.util.List;
 
 import metier.entite.Produit;
 
+
+
+
+//////permet de stocker les donnees qu'on va saisir a partir de jsp (html)
 public class ModelProduit {
+	
+	
 	private String motRechercher;
 	private List<Produit> produits= new ArrayList<Produit>();
 	

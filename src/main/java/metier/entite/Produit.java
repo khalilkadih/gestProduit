@@ -2,9 +2,7 @@ package metier.entite;
 
 
 public class Produit {
-	/**
-	 * 
-	 */
+	
 	private long id;
 	private String designation;
 	private double prix;
